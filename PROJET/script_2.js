@@ -10,3 +10,4 @@ function factoriel(num){
 }
  number = prompt("De quel nombre veut tu calculer la factorielle ?")
  console.log(`>> Voici le resultat: ${number}! = ${factoriel(number)}`);
+ 

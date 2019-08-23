@@ -12,3 +12,4 @@ function pyramid(etage){
 	console.log(row);
 }
 }
+pyramid(etage);

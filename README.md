@@ -1,6 +1,7 @@
 # JAVASCRIPT
 
 BASES DU JAVASCRIPT:
+
  -Variables
  -Boucles
  -Conditions
